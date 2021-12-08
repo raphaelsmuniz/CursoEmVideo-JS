@@ -1,0 +1,14 @@
+enviar um alerta na tela - window.alert('')
+tela confirmar - window.confirm('')
+tela para digitar - window.prompt('')
+-----------------------------------------
+
+null - valor nulo;
+var ou let - simboliza uma indicação de variável;
+nome de varáveis chama-se identificadores;
+nome de variável pode começar com letra, $ ou _;
+não pode começar com números, conter espaços e palavras reservadas;
+é possível usar letras ou números, acentos e símbolos;
+é case sensitive;
+tipada fracamente (number, string e boolean) os principais;
+typeof - é para saber o tipo de minha variável;
